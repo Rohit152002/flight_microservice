@@ -1,0 +1,4 @@
+servicecomb:
+  service:
+    name: task-service
+    version: 1.0.0
